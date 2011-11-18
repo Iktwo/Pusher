@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/close.png</file>
+        <file>icons/empty.png</file>
+        <file>icons/fullsize.png</file>
+        <file>icons/boxes/box_0.png</file>
+        <file>icons/boxes/box_1.png</file>
+        <file>icons/completedBoxes/completedBox_0.png</file>
+        <file>icons/completedBoxes/completedBox_1.png</file>
+        <file>icons/destinations/destination_0.png</file>
+        <file>icons/destinations/destination_1.png</file>
+        <file>icons/destinations/destination_2.png</file>
+        <file>icons/fields/field_0.png</file>
+        <file>icons/fields/field_1.png</file>
+        <file>icons/players/player_0.png</file>
+        <file>icons/players/player_1.png</file>
+        <file>icons/playersOnDestination/playerOnDestination_0.png</file>
+        <file>icons/playersOnDestination/playerOnDestination_1.png</file>
+        <file>icons/walls/wall_0.png</file>
+        <file>icons/walls/wall_1.png</file>
+        <file>icons/walls/wall_2.png</file>
+        <file>icons/walls/wall_3.png</file>
+        <file>icons/walls/wall_4.png</file>
+        <file>icons/walls/wall_5.png</file>
+        <file>icons/walls/wall_6.png</file>
+        <file>icons/walls/wall_7.png</file>
+        <file>icons/walls/wall_8.png</file>
+        <file>icons/walls/wall_9.png</file>
+    </qresource>
+</RCC>
